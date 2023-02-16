@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ConfigurationChange</string>
+    <string name="button_to_second_activity">To next activity</string>
+</resources>
